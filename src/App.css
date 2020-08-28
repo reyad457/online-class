@@ -1,0 +1,11 @@
+.App {
+	font-size: 14px;
+}
+main {
+	margin-top: 40px;
+}
+.navbar-toggler:focus,
+.navbar-toggler:hover {
+	text-decoration: none;
+	outline-color: transparent;
+}

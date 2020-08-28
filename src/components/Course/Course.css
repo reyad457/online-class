@@ -1,0 +1,19 @@
+.card {
+	text-align: left;
+	margin: 10px 0;
+}
+.card img {
+	width: -webkit-fill-available;
+}
+
+.card-body > * {
+	font-size: 0.95em;
+	line-height: 1.25;
+}
+
+.card-body div:first-child {
+	line-height: 1.1;
+	font-size: 1.1em;
+	margin-bottom: 5px;
+	letter-spacing: -0.5px;
+}

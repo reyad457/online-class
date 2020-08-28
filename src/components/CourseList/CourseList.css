@@ -1,0 +1,16 @@
+.search-section {
+	display: flex;
+	justify-content: space-between;
+}
+
+.search-section > * {
+	flex: 1;
+}
+
+.course-list {
+	padding: 40px 0;
+}
+
+input[type="search" i]::-webkit-search-cancel-button {
+	cursor: pointer;
+}

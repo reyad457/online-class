@@ -1,0 +1,20 @@
+.footer {
+	background: #343a40;
+	color: white;
+	text-align: center;
+	padding: 20px 0;
+}
+.footer div,
+.footer a {
+	color: rgb(255 255 255 / 70%);
+	text-decoration: none;
+}
+.footer div span {
+	margin: 0 4px;
+	font-size: 0.8em;
+	color: red;
+}
+.footer a:hover {
+	color: white;
+	text-decoration: underline;
+}
